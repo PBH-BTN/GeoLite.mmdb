@@ -6,11 +6,29 @@ This is a fork of [softprops/action-gh-release](https://github.com/softprops/act
 
 ## Download
 
-### URL1
+### URL1 (via Releases)
+
+- [GeoLite2-ASN.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-ASN.mmdb)
+- [GeoLite2-City.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-City.mmdb)
+- [GeoLite2-Country.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-Country.mmdb)
+- [GeoLite2-ASN.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-ASN.mmdb.gz)
+- [GeoLite2-City.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-City.mmdb.gz)
+- [GeoLite2-Country.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-Country.mmdb.gz)
+- [GeoLite2-ASN.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-ASN.mmdb.xz)
+- [GeoLite2-City.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-City.mmdb.xz)
+- [GeoLite2-Country.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/releases/latest/download/GeoLite2-Country.mmdb.xz)
+
+### URL2 (via Raw)
 
 - [GeoLite2-ASN.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
 - [GeoLite2-City.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
 - [GeoLite2-Country.mmdb](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
+- [GeoLite2-ASN.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb.gz)
+- [GeoLite2-City.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb.gz)
+- [GeoLite2-Country.mmdb.gz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb.gz)
+- [GeoLite2-ASN.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb.xz)
+- [GeoLite2-City.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb.xz)
+- [GeoLite2-Country.mmdb.xz](https://github.com/PBH-BTN/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb.xz)
 
 ## License
 
